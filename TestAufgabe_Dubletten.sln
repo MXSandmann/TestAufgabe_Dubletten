@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAufgabe_Dubletten", "TestAufgabe_Dubletten\TestAufgabe_Dubletten.csproj", "{B232AFA4-C1CE-4842-B37C-E707D25FE195}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicatesLibrary", "DuplicatesLibrary\DuplicatesLibrary.csproj", "{54CEF0D5-A281-493B-ACD6-8ED4CB78F1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B232AFA4-C1CE-4842-B37C-E707D25FE195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B232AFA4-C1CE-4842-B37C-E707D25FE195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B232AFA4-C1CE-4842-B37C-E707D25FE195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B232AFA4-C1CE-4842-B37C-E707D25FE195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CEF0D5-A281-493B-ACD6-8ED4CB78F1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CEF0D5-A281-493B-ACD6-8ED4CB78F1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CEF0D5-A281-493B-ACD6-8ED4CB78F1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CEF0D5-A281-493B-ACD6-8ED4CB78F1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CD7086-A41A-4D5C-9E56-FE678E538A39}
+	EndGlobalSection
+EndGlobal
